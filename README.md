@@ -12,3 +12,5 @@
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
    https://docs.google.com/spreadsheets/d/1fshRylZgZCJqrvrPDFPC2HpgjUhcUL5acFKCAtmZhGw/edit?usp=sharing 
+   
+schneider melani ludmilla
