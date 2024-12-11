@@ -8,10 +8,9 @@
    * Se incluye una planilla con Ventas de una empresa tecnologica que utiliza el marketing digital como estrategia comercial.
    
    ### Se adjunta el Manual del plan de marketing digital
-   https://docs.google.com/document/d/1RPSSLnDfnhiauCA6pS7tfnyrH9_lTDGJSXdGdstI_bg/edit?usp=sharing 
    [Plan de Marketing Digital con Google Ads (1).docx](https://github.com/user[Plan de Marketing Digital con Google Ads.docx](https://github.com/user-attachments/files/18088353/Plan.de.Marketing.Digital.con.Google.Ads.docx)
    [Uploading Plan de Marketing Digital con Google Ads.docx…]()
-
+ https://docs.google.com/document/d/1RPSSLnDfnhiauCA6pS7tfnyrH9_lTDGJSXdGdstI_bg/edit?usp=sharing 
 
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
