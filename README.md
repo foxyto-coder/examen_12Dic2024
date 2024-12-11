@@ -9,8 +9,14 @@
    
    ### Se adjunta el Manual del plan de marketing digital
    https://docs.google.com/document/d/1RPSSLnDfnhiauCA6pS7tfnyrH9_lTDGJSXdGdstI_bg/edit?usp=sharing 
+   [Plan de Marketing Digital con Google Ads (1).docx](https://github.com/user[Plan de Marketing Digital con Google Ads.docx](https://github.com/user-attachments/files/18088353/Plan.de.Marketing.Digital.con.Google.Ads.docx)
+   [Uploading Plan de Marketing Digital con Google Ads.docx…]()
+
+
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
    https://docs.google.com/spreadsheets/d/1fshRylZgZCJqrvrPDFPC2HpgjUhcUL5acFKCAtmZhGw/edit?usp=sharing 
    
+   [ventas anuales tecno.xlsx](https://github.com/user-attachments/files/18088342/ventas.anuales.tecno.xlsx)
+
 schneider melani ludmilla
